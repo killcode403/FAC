@@ -1,0 +1,26 @@
+#403 Forbidden [Version 10.0.19042.1110] (FAC)
+(c) Forbidden-access Corporation. All rights reserved.
+
+1. do not rename the directory of (FAC) system files 
+2. do not remove the directory of (FAC) system files 
+3. do not change the directory of (FAC) system files 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
